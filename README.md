@@ -20,3 +20,6 @@ There is a spaceship that player can control and tries to destroy enemy spaceshi
 W/ArrowkeyUP -> Forward , S/ArrowkeyDOWN -> backward , A/ArrowkeyLEFT -> Left , D/ArrowkeyRIGHT -> Right , Space -> Laser Shot
 
 P.S. Recommended to play on computer.
+
+
+Bursa Technical University BLM0364 Game Programming Theory Class Game (which is upgraded by myself).
