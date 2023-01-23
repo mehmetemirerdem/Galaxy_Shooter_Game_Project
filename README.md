@@ -17,7 +17,7 @@ There is a spaceship that player can control and tries to destroy enemy spaceshi
 
 # Controls
 
-W/ArrowkeyUP -> Forward , S/ArrowkeyDOWN -> backward , A/ArrowkeyLEFT -> Left , D/ArrowkeyRIGHT -> Right , Space -> Laser Shot
+W/ArrowkeyUP -> Forward , S/ArrowkeyDOWN -> backward , A/ArrowkeyLEFT -> Left , D/ArrowkeyRIGHT -> Right , Space -> Laser Shot , Esc -> Pause Menu
 
 P.S. Recommended to play on computer.
 
